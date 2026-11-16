@@ -34,9 +34,9 @@ in the case of this, 1 map task failed so its 9x6=54.
 Exercise 2
 Q1. Is your change in the mapper or in the reducer? mapper
 Q2. Please provide your code on GitHub
-______________________________
+https://github.com/shachar-k/big-data-course-answers/blob/main/newMapper.py
 Exercise 3
-Q1. Is your change in the mapper or in the reducer?
+Q1. Is your change in the mapper or in the reducer? reducer
 Q2. Please provide your code on GitHub
 ______________________________
 Q3. Print the output of the MapReduce and put in your GitHub as an image
@@ -44,4 +44,6 @@ Note: you should not use external pipes, sort, or filters. All should be done in
 MapReduce Python code
 I want to see in the screenshot after you type the command:
 $ > hadoop fs -ls /user/hduser/gutenberg-output
-______________________________
+of      34526
+and     42724
+the     74279
